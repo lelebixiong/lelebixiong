@@ -55,7 +55,6 @@ Source repository: <https://github.com/lelebixiong/lelebixiong>
     <a href="https://github.com/lelebixiong"><img src="https://img.shields.io/badge/GitHub-lelebixiong-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend"><img src="https://img.shields.io/badge/小红书-lelebixiong-pink?logo=xiaohongshu" alt="小红书" title="小红书" /></a>
     <a href="https://space.bilibili.com/your-bilibili-id"><img src="https://img.shields.io/badge/哔哩哔哩-lelebixiong-blue?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@lelebixiong"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/lelebixiong"><img src="https://komarev.com/ghpvc/?username=lelebixiong&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
