@@ -1,0 +1,44 @@
+<svg width="420" height="320" viewBox="0 0 420 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Chibi coder mascot</title>
+  <desc id="desc">A cute anime-style coding mascot sitting with a laptop.</desc>
+  <defs>
+    <linearGradient id="halo" x1="42" y1="22" x2="378" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B9D"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#00D4FF"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="106" y1="212" x2="314" y2="284" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+
+  <ellipse cx="210" cy="284" rx="142" ry="20" fill="#000" opacity="0.24"/>
+  <circle cx="210" cy="150" r="126" fill="url(#halo)" opacity="0.22" filter="url(#soft)"/>
+
+  <path d="M134 116C129 62 171 36 211 36C252 36 292 63 286 117C309 131 309 165 291 180C279 190 249 188 211 188C173 188 140 191 128 177C112 159 114 130 134 116Z" fill="#202A44" stroke="#58A6FF" stroke-width="4"/>
+  <path d="M151 116C146 77 178 56 211 56C244 56 275 78 270 116C286 126 286 154 272 164C262 171 236 170 211 170C186 170 158 172 149 162C136 148 136 126 151 116Z" fill="#F6D7C3"/>
+
+  <path d="M150 105C167 69 213 73 230 51C233 74 263 78 270 113C254 87 227 94 205 89C180 84 165 94 150 105Z" fill="#2F3A5F"/>
+  <path d="M172 132C178 124 191 124 197 132" stroke="#1F2937" stroke-width="5" stroke-linecap="round"/>
+  <path d="M225 132C231 124 244 124 250 132" stroke="#1F2937" stroke-width="5" stroke-linecap="round"/>
+  <path d="M198 150C207 158 218 158 226 150" stroke="#D96C8B" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="161" cy="146" r="10" fill="#FF9BB8" opacity="0.65"/>
+  <circle cx="260" cy="146" r="10" fill="#FF9BB8" opacity="0.65"/>
+
+  <path d="M144 190C158 176 184 173 210 173C237 173 263 176 277 190C288 203 287 235 274 249C258 267 163 267 146 249C133 235 133 203 144 190Z" fill="#7C3AED" stroke="#BDA7FF" stroke-width="4"/>
+  <path d="M176 181L209 214L244 181" stroke="#FFD166" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="100" y="217" width="220" height="70" rx="10" fill="url(#screen)" stroke="#30363D" stroke-width="4"/>
+  <path d="M132 249L154 234M132 249L154 264" stroke="#58A6FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M288 249L266 234M288 249L266 264" stroke="#FF6B9D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M198 267L222 231" stroke="#FFD166" stroke-width="5" stroke-linecap="round"/>
+
+  <circle cx="87" cy="80" r="7" fill="#FFD166"/>
+  <path d="M87 57V103M64 80H110M71 64L103 96M103 64L71 96" stroke="#FFD166" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="331" cy="93" r="6" fill="#00D4FF"/>
+  <path d="M331 73V113M311 93H351M317 79L345 107M345 79L317 107" stroke="#00D4FF" stroke-width="3" stroke-linecap="round"/>
+</svg>

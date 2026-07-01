@@ -1,0 +1,54 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">100+ total contributions</title>
+  <desc id="desc">A celebratory banner with fireworks emphasizing more than one hundred total contributions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.45" stop-color="#22133E"/>
+      <stop offset="1" stop-color="#071D2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="47" x2="760" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B9D"/>
+      <stop offset="0.5" stop-color="#FFD166"/>
+      <stop offset="1" stop-color="#00D4FF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="16" y="16" width="868" height="248" rx="28" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <path d="M58 218C178 172 308 250 448 202C596 151 693 183 842 121" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" opacity="0.65"/>
+  <path d="M63 78C192 116 272 46 400 84C532 123 634 47 831 73" stroke="#58A6FF" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+
+  <g filter="url(#glow)">
+    <circle cx="137" cy="83" r="4" fill="#FFD166"/>
+    <path d="M137 47V119M101 83H173M111 57L163 109M163 57L111 109" stroke="#FFD166" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="762" cy="70" r="4" fill="#FF6B9D"/>
+    <path d="M762 39V101M731 70H793M740 48L784 92M784 48L740 92" stroke="#FF6B9D" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="728" cy="198" r="3" fill="#00D4FF"/>
+    <path d="M728 171V225M701 198H755M709 179L747 217M747 179L709 217" stroke="#00D4FF" stroke-width="3.5" stroke-linecap="round"/>
+  </g>
+
+  <text x="450" y="110" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle" letter-spacing="3">
+    TOTAL CONTRIBUTIONS
+  </text>
+  <text x="450" y="190" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="96" font-weight="900" text-anchor="middle">
+    100+ !!!
+  </text>
+  <text x="450" y="226" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle">
+    more commits, more experiments, more sparkle
+  </text>
+
+  <g opacity="0.8">
+    <circle cx="246" cy="60" r="3" fill="#FF6B9D"/>
+    <circle cx="322" cy="226" r="3" fill="#FFD166"/>
+    <circle cx="579" cy="54" r="3" fill="#00D4FF"/>
+    <circle cx="639" cy="227" r="3" fill="#FF6B9D"/>
+    <circle cx="832" cy="177" r="3" fill="#FFD166"/>
+  </g>
+</svg>

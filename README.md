@@ -3,62 +3,112 @@ MIT License
 
 Copyright (c) 2024 lelebixiong
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-ATTENTION:
-
-Source repository: <https://github.com/lelebixiong/lelebixiong>
+Source repository: https://github.com/lelebixiong/lelebixiong
 -->
 
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20lelebixiong&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:7c3aed,100:00d4ff&height=230&section=header&text=Hi%20There&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=I%20am%20lelebixiong%20%7C%20CS%20Student%20%7C%20AI%20%26%20Coding%20Explorer&descSize=20&descAlignY=60&animation=twinkling"
+    alt="Hi There"
+  />
 </p>
+
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=lelebixiong&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=lelebixiong&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=lelebixiong&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Information+Systems+Student;AI+Agent+%2B+Coding+Tool+Explorer;Always+building%2C+learning%2C+and+shipping"
+    alt="Typing SVG"
+  />
 </p>
+
 <p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lelebixiong&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+  <img src="./assets/chibi-coder.svg" width="260" alt="Chibi coder mascot" />
 </p>
+
+## About Me
+
+- Student majoring in Information Systems.
+- Interested in AI agents, software engineering, coding tools, and medical technology.
+- Currently learning how to turn notes, workflows, and experiments into reusable projects.
+- I like clean structure, useful automation, and cute details that make technical work less boring.
+
+## Highlight
+
 <p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=lelebixiong&no-bg=true&no-frame=true&theme=algolia&title=-Frontend%20Enthusiast" alt="Profile Trophy" title="Profile Trophy" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-100%2B%20!!!-ff6b9d?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="100+ total contributions" />
+  <img src="https://img.shields.io/badge/Public%20Repos-26-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="26 public repositories" />
+  <img src="https://img.shields.io/badge/Stars-32-FFD166?style=for-the-badge&logo=starship&logoColor=black" alt="32 GitHub stars" />
 </p>
+
 <p align="center">
-    <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=vue,react,nextjs,typescript,webpack,vite,sass,tailwindcss,docker,golang&titles=true" alt="Skill Icons" title="Skill Icons">
+  <img src="./assets/total-contributions-fireworks.svg" width="760" alt="100+ total contributions with fireworks" />
 </p>
+
+## GitHub Dashboard
+
 <p align="center">
-    <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/lelebixiong"><img src="https://img.shields.io/badge/GitHub-lelebixiong-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://www.xiaohongshu.com/explore?channel_id=homefeed_recommend"><img src="https://img.shields.io/badge/小红书-lelebixiong-pink?logo=xiaohongshu" alt="小红书" title="小红书" /></a>
-    <a href="https://space.bilibili.com/your-bilibili-id"><img src="https://img.shields.io/badge/哔哩哔哩-lelebixiong-blue?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/lelebixiong"><img src="https://komarev.com/ghpvc/?username=lelebixiong&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+  <img
+    width="760"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lelebixiong&theme=github_dark"
+    alt="Profile details"
+  />
 </p>
+
 <p align="center">
-    <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+  <img
+    width="372"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lelebixiong&theme=github_dark"
+    alt="Repos per language"
+  />
+  <img
+    width="372"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lelebixiong&theme=github_dark"
+    alt="Most commit language"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="760"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lelebixiong&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    alt="Contribution activity graph"
+  />
+</p>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,vue,nodejs,git,github,vscode" alt="Tech stack icons" />
+</p>
+
+## Current Focus
+
+| Area | What I am exploring |
+| --- | --- |
+| AI Agents | Comparing Codex, Copilot, Cursor, Claude Code, and Devin |
+| Software Engineering | Requirements, testing, code review, and workflow design |
+| Knowledge System | Obsidian notes, research radar, and reusable learning logs |
+| GitHub Projects | Making repositories cleaner, more readable, and easier to revisit |
+
+## Featured Notes
+
+- [AI Agent Difference](https://github.com/lelebixiong/AI-agent-difference)
+- [My GitHub Profile README](https://github.com/lelebixiong/lelebixiong)
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/lelebixiong">
+    <img src="https://img.shields.io/badge/GitHub-lelebixiong-58A6FF?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:xiyuan.chen23@qq.com">
+    <img src="https://img.shields.io/badge/Email-xiyuan.chen23%40qq.com-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lelebixiong&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:ff6b9d&height=150&section=footer&text=Keep%20building%20%26%20keep%20sparkling&fontSize=28&fontColor=ffffff&animation=twinkling"
+    alt="Footer"
+  />
 </p>
