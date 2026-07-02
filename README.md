@@ -8,7 +8,8 @@ Source repository: https://github.com/lelebixiong/lelebixiong
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:7c3aed,100:00d4ff&height=230&section=header&text=Hi%20There&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=I%20am%20lelebixiong%20%7C%20CS%20Student%20%7C%20AI%20%26%20Coding%20Explorer&descSize=20&descAlignY=60&animation=twinkling"
+    src="./assets/profile-header.png"
+    width="420"
     alt="Hi There"
   />
 </p>
@@ -97,3 +98,35 @@ Source repository: https://github.com/lelebixiong/lelebixiong
 </p>
 
 ## Current Focus
+
+| Area | What I am exploring |
+| --- | --- |
+| AI Agents | Comparing Codex, Copilot, Cursor, Claude Code, and Devin |
+| Software Engineering | Requirements, testing, code review, and workflow design |
+| Knowledge System | Obsidian notes, research radar, and reusable learning logs |
+| GitHub Projects | Making repositories cleaner, more readable, and easier to revisit |
+
+## Featured Notes
+
+- [AI Agent Difference](https://github.com/lelebixiong/AI-agent-difference)
+- [My GitHub Profile README](https://github.com/lelebixiong/lelebixiong)
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/lelebixiong">
+    <img src="https://img.shields.io/badge/GitHub-lelebixiong-58A6FF?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:xiyuan.chen23@qq.com">
+    <img src="https://img.shields.io/badge/Email-xiyuan.chen23%40qq.com-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lelebixiong&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img
+    src="./assets/profile-footer.png"
+    width="320"
+    alt="Footer"
+  />
+</p>
