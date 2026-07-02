@@ -6,14 +6,6 @@ Copyright (c) 2024 lelebixiong
 Source repository: https://github.com/lelebixiong/lelebixiong
 -->
 
-<!--
-MIT License
-
-Copyright (c) 2024 lelebixiong
-
-Source repository: https://github.com/lelebixiong/lelebixiong
--->
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:7c3aed,100:00d4ff&height=230&section=header&text=Hi%20There&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=I%20am%20lelebixiong%20%7C%20CS%20Student%20%7C%20AI%20%26%20Coding%20Explorer&descSize=20&descAlignY=60&animation=twinkling"
@@ -105,10 +97,3 @@ Source repository: https://github.com/lelebixiong/lelebixiong
 </p>
 
 ## Current Focus
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:ff6b9d&height=150&section=footer&text=Keep%20building%20%26%20keep%20sparkling&fontSize=28&fontColor=ffffff&animation=twinkling"
-    alt="Footer"
-  />
-</p>
