@@ -97,3 +97,37 @@ Source repository: https://github.com/lelebixiong/lelebixiong
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,vue,nodejs,git,github,vscode" alt="Tech stack icons" />
 </p>
+
+## Current Focus
+
+| Area | What I am exploring |
+| --- | --- |
+| AI Agents | Comparing Codex, Copilot, Cursor, Claude Code, and Devin |
+| Software Engineering | Requirements, testing, code review, and workflow design |
+| Knowledge System | Obsidian notes, research radar, and reusable learning logs |
+| GitHub Projects | Making repositories cleaner, more readable, and easier to revisit |
+
+## Featured Notes
+
+- [AI Agent Difference](https://github.com/lelebixiong/AI-agent-difference)
+- [My GitHub Profile README](https://github.com/lelebixiong/lelebixiong)
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/lelebixiong">
+    <img src="https://img.shields.io/badge/GitHub-lelebixiong-58A6FF?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:xiyuan.chen23@qq.com">
+    <img src="https://img.shields.io/badge/Email-xiyuan.chen23%40qq.com-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lelebixiong&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img
+    src="./assets/profile-footer.png"
+    width="320"
+    alt="Footer"
+  />
+</p>
